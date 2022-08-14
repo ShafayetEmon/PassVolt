@@ -35,7 +35,7 @@ app.get("/", (req, res, next) => {
   });
 });
 
-//const URLL = "mongodb+srv://admin:admin@cluster0.xghet.mongodb.net/passDB?retryWrites=true&w=majority"
+
 const url = "mongodb://localhost:27017/passDB";
 mongoose
   .connect(url, { useNewUrlParser: true })
