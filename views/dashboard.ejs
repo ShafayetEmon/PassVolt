@@ -1,0 +1,31 @@
+<%- include('./partials/head.ejs') %>
+<main class="container">
+  <div class="grid__col grid__col--12 grid__col--center">
+    <div class="grid__col grid__col--12 grid__col--center">
+      <h1 class="my-3 text-center">Welcome to your Password Manager</h1>
+      <p class="my-3 p-3 text-center"></p>
+      <h2 class="text-center">
+        Manage your saved passwords from anywhere in the world.
+      </h2>
+
+      <h2 class="text-center">
+        They're securely stored and easily accessible.
+      </h2>
+      <p class="my-3 p-3 text-center"></p>
+    </div>
+
+    <h1 class="my-3 p-3 text-center">
+      You have saved <%= totalpass %> Passwords.
+    </h1>
+
+    <div class="container">
+      <div class="col-md-12 text-center">
+        <a type="button" class="btn btn-primary btn-lg" href="/viewallpassword">
+          View All Password
+        </a>
+      </div>
+    </div>
+  </div>
+</main>
+
+<%- include('./partials/footer.ejs') %>
