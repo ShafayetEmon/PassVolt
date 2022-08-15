@@ -1,3 +1,4 @@
+require('dotenv').config()
 const express = require("express");
 const app = express();
 const path = require("path");
@@ -14,10 +15,11 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, "public")));
 app.use(
   session({
-    secret: "2e0K^E2tiAbm",
+    secret: process.env.SECRET_KEY,
     resave: false,
     saveUninitialized: true,
   })
+  
 );
 
 app.set("view engine", "ejs");
@@ -36,9 +38,12 @@ app.get("/", (req, res, next) => {
 });
 
 
-const url = "mongodb://localhost:27017/passDB";
+const DB_ADMIN = process.env.DB_ADMIN
+const DB_PASS= process.env.DB_PASS
+const url = `mongodb+srv://${DB_ADMIN}:${DB_PASS}@cluster0.98l890p.mongodb.net/passVolt?retryWrites=true&w=majority`
+
 mongoose
-  .connect(url, { useNewUrlParser: true })
+  .connect(url, { useUnifiedTopology: true, useNewUrlParser: true })
   .then(() => {
     const port = process.env.PORT || 8080;
 
