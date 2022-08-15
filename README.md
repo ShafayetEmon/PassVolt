@@ -38,27 +38,27 @@ A simple but elegant web app that reflects the basic functionality of a Password
 
 # Site Screenshots
 # Home Page
-![](images/HomePage.png)
+![](ScreenShots/HomePage.png)
 
 # Sign Up
-![](images/SignUp.png)
+![](ScreenShots/SignUp.png)
 
 # Login
-![](images/Login.png)
+![](ScreenShots/Login.png)
 
 # User Dashboard
-![](images/Dashboard.png)
+![](ScreenShots/Dashboard.png)
 
 # View All Passwords
-![](images/ViewAllPassword.png)
+![](ScreenShots/ViewAllPassword.png)
 
 # View Password
-![](images/ViewPassword.png)
+![](ScreenShots/ViewPassword.png)
 
 # Edit Password
-![](images/EditPassword.png)
+![](ScreenShots/EditPassword.png)
 # Add New Password
-![](images/AddNewPassword.png)
+![](ScreenShots/AddNewPassword.png)
 
 
 
