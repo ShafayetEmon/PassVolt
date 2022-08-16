@@ -40,28 +40,28 @@ Live Link: https://pass-volt.herokuapp.com
 
 # Site Screenshots
 # Home Page
-![(Screenshots/HomePage.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/HomePage.png)
+![(Screenshots/HomePage.png)](/Screenshots/HomePage.png)
 
 # Sign Up
-![(ScreenShots/SignUp.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/SignUp.png)
+![(ScreenShots/SignUp.png)](/Screenshots/SignUp.png)
 
 # Login
-![(ScreenShots/Login.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/Login.png)
+![(ScreenShots/Login.png)](/Screenshots/Login.png)
 
 # User Dashboard
-![(ScreenShots/Dashboard.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/Dashboard.png)
+![(ScreenShots/Dashboard.png)](/Screenshots/Dashboard.png)
 
 # View All Passwords
-![(ScreenShots/ViewAllPassword.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/ViewAllPassword.png)
+![(ScreenShots/ViewAllPassword.png)](/Screenshots/ViewAllPassword.png)
 
 # View Password
-![(ScreenShots/ViewPassword.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/ViewPassword.png)
+![(ScreenShots/ViewPassword.png)](/Screenshots/ViewPassword.png)
 
 # Edit Password
-![(ScreenShots/EditPassword.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/EditPassword.png)
+![(ScreenShots/EditPassword.png)](/Screenshots/EditPassword.png)
 
 # Add New Password
-![(ScreenShots/AddNewPassword.png)](https://github.com/ShafayetEmon/PassVolt/blob/bb1084d2850c491ed01e9a6b988d18dbefba1efb/Screenshots/AddNewPassword.png)
+![(ScreenShots/AddNewPassword.png)](/Screenshots/AddNewPassword.png)
 
 
 
