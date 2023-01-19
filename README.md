@@ -2,7 +2,7 @@
 A simple but elegant web app that reflects the basic functionality of a Password Management Site. User can add, edit or delete account information for different accounts he holds on the internet. 
 
 
-Live Link: https://pass-volt.herokuapp.com
+Live Link: https://vast-erin-reindeer-kilt.cyclic.app/
 
 ## Features
 
